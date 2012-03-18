@@ -1,0 +1,24 @@
+﻿@model List<Better_Javascript.Models.ToDo>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section JavaScript
+{
+    <script type="text/javascript" src="../../Scripts/../Scripts/ToDo/bad-todo.js"></script>
+}
+
+
+<div class="add-todo">
+    
+    <span class="add-todo">Add a new todo item</span>
+    <input type="text" class="add-todo"/>
+    <input class="add-todo" type="submit" value="Add"/>
+</div>
+
+<h2>Here is your list of todo...</h2>
+<ul class="todo-list">
+    
+</ul>
+
+

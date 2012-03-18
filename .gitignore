@@ -1,0 +1,5 @@
+./Source/*.suo
+./Source/Part*/bin
+./Source/Part*/bin/*.*
+./Source/Part*/obj
+./Source/Part*/obj/*.*

@@ -1,0 +1,7 @@
+D:\Source\DevelopmentTeam\trunk\Dojos\Better Javascript\Better Javascript\bin\Better Javascript.dll
+D:\Source\DevelopmentTeam\trunk\Dojos\Better Javascript\Better Javascript\bin\Better Javascript.pdb
+D:\Source\DevelopmentTeam\trunk\Dojos\Better Javascript\Better Javascript\bin\EntityFramework.dll
+D:\Source\DevelopmentTeam\trunk\Dojos\Better Javascript\Better Javascript\bin\EntityFramework.xml
+D:\Source\DevelopmentTeam\trunk\Dojos\Better Javascript\Better Javascript\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\DevelopmentTeam\trunk\Dojos\Better Javascript\Better Javascript\obj\Debug\Better Javascript.dll
+D:\Source\DevelopmentTeam\trunk\Dojos\Better Javascript\Better Javascript\obj\Debug\Better Javascript.pdb
